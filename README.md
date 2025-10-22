@@ -1,3 +1,1 @@
 # Patrones de Diseño
-
-Hola
